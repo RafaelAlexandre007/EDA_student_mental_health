@@ -38,3 +38,41 @@ O seu trabalho será avaliado com base nos seguintes critérios:
 - **Processo de Análise:** A clareza e o rigor da sua análise, incluindo quaisquer visualizações ou provas de apoio.
 
 Sinta-se à vontade para entrar em contato se tiver alguma dúvida ou precisar de mais orientações. Boa sorte com a sua análise exploratória de dados!
+
+# Perguntas de EDA
+
+## Análise Geral do Dataset:
+
+- Quais são as colunas disponíveis no dataset?
+- Qual é o tipo de dados de cada coluna?
+- Quais são as primeiras e últimas entradas do dataset?
+- Qual é o tamanho do dataset (número de linhas e colunas)?
+
+## Dados Faltantes:
+
+- Existem dados nulos em alguma coluna? Se sim, quantos?
+- Quais colunas têm dados nulos e qual a porcentagem de dados faltantes em cada uma?
+
+## Estatísticas Descritivas:
+
+- Quais são as estatísticas descritivas para as colunas numéricas?
+- Qual é a média, mediana e desvio padrão da coluna de idade?
+
+## Distribuição de Variáveis:
+
+- Como é a distribuição da coluna de idade? (Crie um histograma da coluna Age).
+- Quais são as distribuições das variáveis categóricas? (Crie gráficos de barras para cada coluna categórica).
+
+## Relações entre Variáveis:
+
+- Existe alguma correlação entre as variáveis numéricas? (Crie um mapa de calor da matriz de correlação).
+- Como a idade se relaciona com outra variável, como a nota? (Crie um gráfico de dispersão entre Age e Score).
+
+## Análise de Outliers:
+
+- Existem outliers nas variáveis numéricas? (Crie boxplots para identificar outliers).
+
+## Comparações entre Grupos:
+
+- Como a média da nota varia entre diferentes gêneros? (Crie um gráfico de barras comparando as médias das notas por gênero).
+- Existe uma diferença significativa nas idades entre os diferentes cursos? (Realize uma análise estatística, como um teste t, e visualize os resultados).
