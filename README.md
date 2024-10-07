@@ -43,9 +43,8 @@ Sinta-se à vontade para entrar em contato se tiver alguma dúvida ou precisar d
 
 ## Análise Geral do Dataset:
 
-- Quais são as colunas disponíveis no dataset?
+- Liste colunas disponíveis no dataset?
 - Qual é o tipo de dados de cada coluna?
-- Quais são as primeiras e últimas entradas do dataset?
 - Qual é o tamanho do dataset (número de linhas e colunas)?
 
 ## Dados Faltantes:
@@ -75,4 +74,4 @@ Sinta-se à vontade para entrar em contato se tiver alguma dúvida ou precisar d
 ## Comparações entre Grupos:
 
 - Como a média da nota varia entre diferentes gêneros? (Crie um gráfico de barras comparando as médias das notas por gênero).
-- Existe uma diferença significativa nas idades entre os diferentes cursos? (Realize uma análise estatística, como um teste t, e visualize os resultados).
+- Existe uma diferença significativa nas idades entre os diferentes cursos? (Realize uma análise estatística, como um teste, e visualize os resultados).
